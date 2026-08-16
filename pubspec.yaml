@@ -1,0 +1,47 @@
+name: shiyan
+description: 释言
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.1.0
+  shared_preferences: ^2.2.2
+  http: ^1.1.0
+  uuid: ^4.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/body_base.png.PNG
+    - assets/images/top_01.png.PNG
+    - assets/images/top_02.png.PNG
+    - assets/images/top_03.png.PNG
+    - assets/images/top_04.png.PNG
+    - assets/images/bottom_01.png.PNG
+    - assets/images/bottom_02.png.PNG
+    - assets/images/bottom_03.png.PNG
+    - assets/images/bottom_04.png.PNG
+    - assets/images/hair_01.png.PNG
+    - assets/images/hair_02.png.PNG
+    - assets/images/hair_03.png.PNG
+    - assets/images/hair_04.png.PNG
+    - assets/images/eyes_01.png.PNG
+    - assets/images/eyes_02.png.PNG
+    - assets/images/eyes_03.png.PNG
+    - assets/images/eyes_04.png.PNG
+    - assets/images/mouth_01.png.PNG
+    - assets/images/mouth_02.png.PNG
+    - assets/images/mouth_03.png.PNG
+    - assets/images/shoes_01.png.PNG
+    - assets/images/shoes_02.png.PNG
+    - assets/images/shoes_03.png.PNG
